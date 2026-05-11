@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hanan Maqsood</h1>
+<h3 align="center">Full Stack Developer | Flask & MySQL Collaborator</h3>
 
-<!--
-**hananmaqsood56-cmd/hananmaqsood56-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:hananmaqsood56@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-Here are some ideas to get you started:
+- 🔭 Currently contributing to **Campus Feedback System** using Flask + MySQL
+- 🌱 Learning **Backend Development & Database Management**
+- 👨‍💻 Collaborating on: [Campus Feedback System](https://github.com/hananmaqsood100-create/college-improvemt-system)
+- 💬 Ask me about **Python, Flask, MySQL, JavaScript**
+- 📫 Reach me: **hananmaqsood56@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,mysql,html,css,js,git" />
+</p>
+
+### 📊 GitHub Stats
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hananmaqsood56-cmd&show_icons=true&theme=tokyonight&hide_border=true" /></p>
