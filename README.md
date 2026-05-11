@@ -15,6 +15,5 @@
 <p>
 <img src="https://skillicons.dev/icons?i=python,flask,mysql,html,css,js,git" />
 </p>
-
-   ### 📊 GitHub Stats
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hananmaqsood56-cmd&show_icons=true&theme=dark&hide_border=true" /></p>
+### 🔥 GitHub Streak
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hananmaqsood56-cmd&theme=dark&hide_border=true" /></p>
